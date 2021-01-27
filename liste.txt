@@ -1,0 +1,10 @@
+Kochen;2020-12-21
+Einkaufen;2020-12-22
+Müll rausbringen;2020-12-23
+Gassi gehen;2020-12-24
+Staubsaugen;2020-12-25
+Essen;2020-12-26
+Paket zurückbringen;2020-12-27
+Aufräumen;2020-12-28
+Lesen;2020-12-29
+Wischen;2020-12-23
